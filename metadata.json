@@ -1,0 +1,6 @@
+{
+  "name": "Underground Mine Mapper",
+  "description": "Professional 2D underground mine mapping and CAD plan generator for tunnel networks, stopes, geology, ventilation, utilities, and survey-calibrated drafting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
